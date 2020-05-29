@@ -45,7 +45,7 @@ If you\'re on MacOS, you can install Pipenv easily with Homebrew:
 
     $ brew install pipenv
 
-Or, if you\'re using Debian Buster+:
+Or, if you\'re using Debian Buster+ or Ubuntu 19.10+:
 
     $ sudo apt install pipenv
 
